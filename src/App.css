@@ -232,7 +232,7 @@ textarea:focus {
   width: 460px;
 }
 .form-section input[type="submit"] {
-  background: #1cb803;
+  background: #b9110f;
   border: 0 none;
   border-radius: 25px;
   color: #fff;
@@ -263,10 +263,10 @@ textarea:focus {
 .info-image {
   width: 50px;
   height: 50px;
-  border: 2px solid #1cb803;
+  border: 2px solid #b9110f;
   border-radius: 100px;
   font-size: 20px;
-  color: #1cb803;
+  color: #b9110f;
 }
 .box-info h5 {
   font-weight: bold;
