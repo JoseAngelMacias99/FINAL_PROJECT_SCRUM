@@ -19,7 +19,7 @@ const ContactInfo = () => {
               <i className="fas fa-map-marker-alt"></i>
             </div>
             <h5>Aguascalientes</h5>
-            <p>El Llano Aguascalientes</p>
+            <p>El Retoño</p>
           </div>
         </div>
         <div className="col-12 col-md-4 contact-Box">
