@@ -48,7 +48,7 @@ const Register = ({ location, history }) => {
           />
           <input
             type="email"
-            placeholder="Email"
+            placeholder="E-mail"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
           />
@@ -62,7 +62,7 @@ const Register = ({ location, history }) => {
           <button type="submit">Register</button>
           <p>
             <Link to={redirect ? `/login?redirect=${redirect}` : "/login"}>
-              I Have Account <strong>Login</strong>
+              I Have an Account <strong>Login</strong>
             </Link>
           </p>
         </form>
