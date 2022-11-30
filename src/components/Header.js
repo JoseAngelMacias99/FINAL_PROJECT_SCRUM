@@ -155,7 +155,7 @@ const Header = () => {
                     onChange={(e) => setKeyword(e.target.value)}
                   />
                   <button type="submit" className="search-button">
-                    search
+                    Search
                   </button>
                 </form>
               </div>
